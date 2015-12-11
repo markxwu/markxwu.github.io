@@ -11,7 +11,7 @@
     fields: [],
     percentOnScreen: '50%',
     reportInterval: 10,
-    googleAnalytics: false,
+    googleAnalytics: true,
     callback: function(){}
   };
 
